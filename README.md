@@ -5,6 +5,12 @@ This repository contains links to all my data, software, and visualization proje
 You can explore each project in detail through the links below 👇
 
 ---
+## Fullstack Projects
+
+- [Fullstack todo web application](https://rakesh0966.pythonanywhere.com/todopage/)
+
+---
+
 
 ## 📊 Data Analytics & Machine Learning Projects
 
